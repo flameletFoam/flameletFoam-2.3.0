@@ -1,4 +1,4 @@
-flameletFoam-2.3.x
+flameletFoam-2.3.0
 ==================
 
 ## Description
@@ -18,7 +18,7 @@ https://openfoamwiki.net/index.php/Extend-bazaar/solvers/combustion/flameletFoam
 
 ## Installation
 
-This version works with OpenFOAM-2.3
+This version works with OpenFOAM-2.3.0
 
 * Prepare a directory on your system, e.g.:  
 
@@ -26,7 +26,7 @@ This version works with OpenFOAM-2.3
 
 * Download flameletFoam using git:
 
-  `git clone https://github.com/flameletFoam/flameletFoam-2.3.x/ ~/OpenFOAM/flameletFoam/`
+  `git clone https://github.com/flameletFoam/flameletFoam-2.3.0/ ~/OpenFOAM/flameletFoam/`
 
 * Set an environment variable to the flameletFoam src folder:
 
